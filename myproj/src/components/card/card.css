@@ -1,0 +1,30 @@
+.card {
+    margin: 10vh auto 0 auto;
+    margin-bottom: calc(90vh - 250px);
+    width: 470px;
+    padding: 20px;
+    border-radius: 15px;
+    font-weight: 700;
+    color: rgb(209, 206, 206);
+    -webkit-box-shadow: 2px 2px 19px 1px rgba(0,0,0,0.63); 
+    box-shadow: 2px 2px 19px 1px rgba(0,0,0,0.63);    
+    background-color: indigo;
+}
+
+.card h2 {
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.card .bio {
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 20px;
+}
+
+.card .contacts {
+    font-weight: 800;
+}
